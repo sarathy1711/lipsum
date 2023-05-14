@@ -1,0 +1,62 @@
+@font-face {
+    font-family: "thisisdownloadedfont";
+    src: url(dauphin/Dauphin.ttf);
+}
+.webpage{
+    font-family: thisisdownloadedfont;
+    text-align: center;
+    font-size: larger;
+}
+.thisissamplework{
+    font-size: large;
+    text-align: center;
+}
+.bigbox{
+    height: 700px;
+    width: 600px;
+    font-size: small;
+    text-align: justify;
+    margin: auto;
+}
+
+.tophead{
+    height: 100px;
+    width: 590px;
+    font-size: small;text-align: justify;
+    margin: auto;
+}
+
+.content{
+    height: 600px;
+    width: 590px;
+    font-size: small;text-align: justify;
+    margin: auto;
+}
+
+.lefttop {
+    height: 300px;
+    width: 290px;
+    font-size: small;text-align: justify;
+    display: inline-block;
+}
+
+.righttop{
+    height: 300px;
+    width: 287px;text-align: justify;
+    font-size: small;
+    display: inline-block;
+}
+
+.leftbottom{
+    height: 300px;
+    width: 287px;text-align: justify;
+    font-size: small;
+    display: inline-block;
+}
+
+.rightbottom{
+    height: 300px;
+    width: 287px;text-align: justify;
+    font-size: small;
+    display: inline-block;
+}
