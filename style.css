@@ -60,3 +60,7 @@
     font-size: small;
     display: inline-block;
 }
+
+body {
+    background-color: aquamarine;
+}
